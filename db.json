@@ -1,0 +1,29 @@
+{
+    "products": [
+
+        {
+            "id": "dbea",
+            "img": "apple-watch.jpg",
+            "title": "Apple MacBook Pro 16",
+            "count": 1,
+            "price": 25000,
+            "priceTotal": 25000
+        },
+        {
+            "id": "7873",
+            "img": "apple-watch.jpg",
+            "title": "Apple Mac mini",
+            "count": 1,
+            "price": 15000,
+            "priceTotal": 15000
+        },
+        {
+            "id": "59fe",
+            "img": "macbook.jpg",
+            "title": "Apple iMac 27",
+            "count": 1,
+            "price": 25000,
+            "priceTotal": 25000
+        }
+    ]
+}
